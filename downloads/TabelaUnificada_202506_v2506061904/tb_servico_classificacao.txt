@@ -1,0 +1,426 @@
+168001Atenção Especializada Em Doenças Raras                                                                                                                202506
+169001Urologia em Geral                                                                                                                                     202506
+170001Núcleo de Segurança do Paciente                                                                                                                       202506
+171001Apoio Assistencial                                                                                                                                    202506
+173001Recebimento e Inspeção                                                                                                                                202506
+174001Indivíduos em Geral                                                                                                                                   202506
+100001Atendimento em presídio até 100 presos                                                                                                                202506
+101001Saúde da família                                                                                                                                      202506
+102001Estratégia de Agentes Comunitários de Saúde - EACS                                                                                                    202506
+103001Ambulância de transporte                                                                                                                              202506
+104001Central de Regulação de Internações Hospitalares                                                                                                      202506
+105001Neurocirurgia do trauma e anomalias do desenvolvimento                                                                                                202506
+106001Testagem e aconselhamento                                                                                                                             202506
+108001Atendimento Assistencial                                                                                                                              202506
+109001Unidade sócio-educativa com até 40 adolecentes                                                                                                        202506
+110001Atenção à infertilidade                                                                                                                               202506
+111001Diagnóstico e tratamento                                                                                                                              202506
+112001Acompanhamento do pré-natal de risco habitual                                                                                                         202506
+113001Assitência Domiciliar                                                                                                                                 202506
+114001Dentística                                                                                                                                            202506
+115001Residência terapêutica em saúde mental                                                                                                                202506
+116001Eletrofisiologia                                                                                                                                      202506
+117001Tratamento da lipodistrofia do portador de HIV / AIDS                                                                                                 202506
+118001Cirurgia torácica                                                                                                                                     202506
+119001Abordagem e tratamento do fumante                                                                                                                     202506
+120001Exames anatomopatológicos                                                                                                                             202506
+121001Radiologia                                                                                                                                            202506
+122001Teste Ergométrico                                                                                                                                     202506
+124001Diagnóstico/Tratamento das doenças endócrinas, metabólicas e nutricionais                                                                             202506
+125001Dispensação de Medicamentos do Componente Especializado da Assistência Farmaceutica.                                                                  202506
+126001Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                                                                  202506
+127001Tratamento clínico, cirúrgico, reparador e acompanhamento ao obeso                                                                                    202506
+128001Procedimentos destinados à obtenção do sangue para fins de assitência hemoterápica                                                                    202506
+129001Exames de histocompatibilidade por meio de sorologia                                                                                                  202506
+130001Tratamento Dialítico-Hemodiálise                                                                                                                      202506
+131001Diagnóstico em oftalmologia                                                                                                                           202506
+132001Oncologia pediátrica                                                                                                                                  202506
+133001Tratamento de Doenças das Vias Aéreas Inferiores                                                                                                      202506
+134001Acupuntura                                                                                                                                            202506
+135001Reabilitação Visual                                                                                                                                   202506
+136001Enteral                                                                                                                                               202506
+137001Exame eletrocardiográfico por telemedicina                                                                                                            202506
+138001Diagnóstico e tratamento em cintura escapular                                                                                                         202506
+139001Tratamento de recém-nascido com hipotireoidismo e fenilcetonuria                                                                                      202506
+141001Vigilância epidemiológica                                                                                                                             202506
+142001Do aparelho digestivo                                                                                                                                 202506
+143001Transporte terrestre                                                                                                                                  202506
+144001Coleta realizada fora das estrutura laboratorial                                                                                                      202506
+145001Exames Bioquimicos                                                                                                                                    202506
+146001Diagnóstica                                                                                                                                           202506
+147001NASF 1                                                                                                                                                202506
+148001Saúde mental                                                                                                                                          202506
+149001Rim                                                                                                                                                   202506
+150001Fístula arteriovenosa sem enxerto                                                                                                                     202506
+151001Medicina nuclear in vivo                                                                                                                              202506
+152001Atenção Básica à Populações Indígenas                                                                                                                 202506
+153001Acompanhamento Clínico, pré e pós operatório e hormonioterapia.                                                                                       202506
+154001Banco de valvula cardiaca humana                                                                                                                      202506
+155001Serviço de Traumatologia e Ortopedia                                                                                                                  202506
+157001Laboratorio Regional de Protese Dentaria                                                                                                              202506
+158001Serviço de Atenção Integral em Hanseniase Tipo I                                                                                                      202506
+159001Atenção Primária                                                                                                                                      202506
+160001Teleconsultoria Assíncrona                                                                                                                            202506
+161001Equipe de Consultório na Rua - Modalidade I                                                                                                           202506
+162001ADULTO                                                                                                                                                202506
+163001NEONATAL CONVENCIONAL                                                                                                                                 202506
+164001Dispensação de OPM Auxiliares de Locomoção e Ortopédicas                                                                                              202506
+165001Referência para Atenção Integral às Pessoas em Situação de Violência Sexual                                                                           202506
+166001Água de Consumo                                                                                                                                       202506
+167001ODONTOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                           202506
+100002Atendimento em manicômio até 100 presos                                                                                                               202506
+174002Grupos Especiais                                                                                                                                      202506
+102002Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade I)                                                                          202506
+103002Unidade de suporte básico de vida terrestre (USB)                                                                                                     202506
+104002Cental de Regulação de Consultas e Exames                                                                                                             202506
+105002Coluna e nervos periféricos                                                                                                                           202506
+106002Diagnóstico e tratamento                                                                                                                              202506
+108002Centro de referência em saúde do trabalhador CEREST estadual                                                                                          202506
+109002Unidade sócio-educativa com de 41 a 100 adolecentes                                                                                                   202506
+110002Contracepção clínica                                                                                                                                  202506
+111002Tratamento multidrogas resistentes                                                                                                                    202506
+112002Acompanhamento do pré-natal de alto risco                                                                                                             202506
+113002Internação Domiciliar                                                                                                                                 202506
+114002Endodontia                                                                                                                                            202506
+115002Atendimento psicossocial                                                                                                                              202506
+116002Cirurgia cardiovascular (adulto)                                                                                                                      202506
+117002Tratamento em queimados                                                                                                                               202506
+120002Exames citopatológicos                                                                                                                                202506
+121002Ultra-sonografia                                                                                                                                      202506
+122002Teste de Holter                                                                                                                                       202506
+124002Cirurgia de glândulas endócrinas                                                                                                                      202506
+125002Farmácia Popular                                                                                                                                      202506
+126002Assistência fisioterapêutica em alterações oncológicas                                                                                                202506
+128002Diagnóstico em hemoterapia                                                                                                                            202506
+129002Exames de histocompatibilidade por sorologia e biologia                                                                                               202506
+131002Tratamento clínico do aparelho da visão                                                                                                               202506
+132002Hematologia                                                                                                                                           202506
+133002Diagnóstico em Pneumologia                                                                                                                            202506
+134002Fitoterapia                                                                                                                                           202506
+135002Reabilitação Intelectual                                                                                                                              202506
+136002Enteral/Parenteral                                                                                                                                    202506
+138002Diagnóstico e tratamento em membros superiores                                                                                                        202506
+139002Tratamento de recém-nascido com doenças falciformes                                                                                                   202506
+141002Vigilância sanitária                                                                                                                                  202506
+142002Do aparelho respiratório                                                                                                                              202506
+143002Transporte aéreo                                                                                                                                      202506
+145002Exames hematológicos e hemostasia                                                                                                                     202506
+146002Cirúrgica                                                                                                                                             202506
+147002NASF 2                                                                                                                                                202506
+148002AIDS                                                                                                                                                  202506
+149002Medula óssea                                                                                                                                          202506
+150002Fístula arteriovenosa com enxerto                                                                                                                     202506
+151002Medicina nuclear in vitro                                                                                                                             202506
+153002Cirurgia e Acompanhamento pré e pós oreratório                                                                                                        202506
+154002Banco de tecido musculo esqueletico                                                                                                                   202506
+155002Serviço de Traumatologia e Ortopedia Pediátrica (até 21 anos de idade)                                                                                202506
+158002Serviço de Atenção Integral em Hanseniase Tipo II                                                                                                     202506
+159002Atenção Básica com Saúde Bucal                                                                                                                        202506
+160002Teleconsultoria Síncrona                                                                                                                              202506
+161002Equipe de Consultório na Rua - Modalidade II                                                                                                          202506
+162002NEONATAL                                                                                                                                              202506
+163002NEONATAL CANGURU                                                                                                                                      202506
+164002Manutenção e Adaptação de OPM Auxiliares de Locomoção e Ortopédicas                                                                                   202506
+165002Serviço de Referência para Atenção Integral à Saúde de Adolescentes em Situação de Violência Sexual                                                   202506
+166002Água de Ambiental                                                                                                                                     202506
+167002ODONTOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                       202506
+168002Referência em Doenças Raras                                                                                                                           202506
+169002Litotripsia                                                                                                                                           202506
+171002Apoio Matricial                                                                                                                                       202506
+173002Armazenamento e Controle                                                                                                                              202506
+101002Saúde bucal MI                                                                                                                                        202506
+100003Atendimento em presídio acima de 100 presos                                                                                                           202506
+173003Distribuição                                                                                                                                          202506
+102003Estratégia de Agentes Comunitários de Saúde com Saúde Bucal - (modalidade II)                                                                         202506
+103003Unidade de suporte avançado de vida terrestre (USA)                                                                                                   202506
+104003Central de Regulação de Urgências                                                                                                                     202506
+105003Tumores do sistema nervoso                                                                                                                            202506
+106003Diagnóstico, tratamento e capacitação técnica                                                                                                         202506
+108003Vigilância em Saúde do Trabalhador (VISAT)                                                                                                            202506
+109003Unidade sócio-educativa com de 101 a 180 adolecentes                                                                                                  202506
+110003Laqueadura                                                                                                                                            202506
+112003Parto em gestação de risco habitual                                                                                                                   202506
+113003Equipe Multidisciplinar de Atenção Domiciliar - EMAD                                                                                                  202506
+114003Periodontia clínica                                                                                                                                   202506
+115003Serviço Hospitalar para Atenção a Saúde Mental                                                                                                        202506
+116003Cirurgia cardiovascular (Pediátrico)                                                                                                                  202506
+117003Tratamento da lipoatrofia facial do portador de HIV / AIDS                                                                                            202506
+120003Monitoramento Externo da Qualidade dos Exames Citopatologicos do Colo do Útero                                                                        202506
+121003Tomografia computadorizada                                                                                                                            202506
+122003Exame Eletrocardiográfico                                                                                                                             202506
+125003Farmácia com manipulação homeopática                                                                                                                  202506
+126003Assistência fisioterapêutica em oftalmologia                                                                                                          202506
+128003Procedimentos especiais em hemoterapia                                                                                                                202506
+130003Confeccção/Intervenção de Acessos para Diálise                                                                                                        202506
+131003Tratamento cirúrgico do aparelho da visão                                                                                                             202506
+132003Oncologia clínica                                                                                                                                     202506
+133003Diagnóstico em Pneumologia por Telemedicina                                                                                                           202506
+134003Outras Práticas em Medicina Tradicional Chinesa                                                                                                       202506
+135003Reabilitação Física                                                                                                                                   202506
+136003Enteral/Parenteral, com manipulação/fabricação                                                                                                        202506
+138003Diagnóstico e tratamento em coluna vertebral e caixa torácica                                                                                         202506
+139003Tratamento de recém-nascido com fibrose cística                                                                                                       202506
+141003Vigilância ambiental                                                                                                                                  202506
+142003Do aparelho urinário                                                                                                                                  202506
+143003Transporte marítimo                                                                                                                                   202506
+145003Exames sorológicos e imunológicos                                                                                                                     202506
+147003NASF Intermunicipal                                                                                                                                   202506
+148003Geriátrico                                                                                                                                            202506
+149003Coração                                                                                                                                               202506
+151003Medicina nuclear in vivo por telemedicina                                                                                                             202506
+155003Serviço de Traumatologia e Ortopedia de Urgência                                                                                                      202506
+158003Serviço de Atenção Integral em Hanseniase Tipo III                                                                                                    202506
+159003Academia da Saúde                                                                                                                                     202506
+160003Segunda Opinião Formativa                                                                                                                             202506
+161003Equipe de Consultório na Rua - Modalidade III                                                                                                         202506
+162003PEDIÁTRICO                                                                                                                                            202506
+163003PEDIÁTRICO                                                                                                                                            202506
+164003Dispensação de OPM Ortopédica                                                                                                                         202506
+165003Serviço de Referência para Atenção Integral à Saúde de Crianças em Situação de Violência Sexual                                                       202506
+166003Água de Hemodiálise                                                                                                                                   202506
+167003OFTALMOLOGIA - PROJETO SAÚDE NA ESCOLA (PSE)                                                                                                          202506
+101003Saúde bucal MII                                                                                                                                       202506
+100004Atendimento em manicômio acima de 100 presos                                                                                                          202506
+101004Saúde da Família para a População Ribeirinha                                                                                                          202506
+104004Unidade de autorizações de TFD intermunicipais                                                                                                        202506
+105004Neurocirurgia vascular                                                                                                                                202506
+106004Assistência Domiciliar Terapêutica em AIDS-ADT                                                                                                        202506
+107004Diagnóstico em Audiologia/Otologia                                                                                                                    202506
+109004Unidade sócio-educativa com mais de 180 adolecentes                                                                                                   202506
+110004Vasectomia                                                                                                                                            202506
+112004Parto em gestação de alto risco                                                                                                                       202506
+113004Equipe Multidisciplinar de Apoio - EMAP                                                                                                               202506
+114004Moldagem/Manutenção                                                                                                                                   202506
+115004Serviço Residencial Terapêutico Tipo I - SRT tipo I                                                                                                   202506
+116004Cirurgia vascular                                                                                                                                     202506
+121004Ressonância magnética                                                                                                                                 202506
+122004Exame Eletroencefalográfico                                                                                                                           202506
+125004Dispensação de medicamentos estratégicos                                                                                                              202506
+126004Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                                                                     202506
+128004Medicina transfusional                                                                                                                                202506
+130004Tratamento Nefrologia em Geral                                                                                                                        202506
+131004Projeto Olhar Brasil                                                                                                                                  202506
+132004Radioterapia                                                                                                                                          202506
+134004Práticas Corpo-mente                                                                                                                                  202506
+135004Reabilitação visual/mental/múltiplas deficiências                                                                                                     202506
+138004Diagnóstico e tratamento em cintura pélvica                                                                                                           202506
+139004Tratamento de recém-nascido com outras doenças congênitas                                                                                             202506
+140004Estabilização de paciente crítico/grave                                                                                                               202506
+141004Núcleo de vigilância hospitalar                                                                                                                       202506
+142004Do aparelho ginecológico                                                                                                                              202506
+145004Exames coprológicos                                                                                                                                   202506
+147004NASF 3                                                                                                                                                202506
+148004Fibrose cística                                                                                                                                       202506
+149004Pulmão                                                                                                                                                202506
+152004Saneamento a Populações Indígenas                                                                                                                     202506
+159004Estratégia de Saúde da Família                                                                                                                        202506
+160004TELEDIAGNOSTICO                                                                                                                                       202506
+162004QUEIMADOS                                                                                                                                             202506
+163004ADULTO                                                                                                                                                202506
+164004Manutenção e Adaptação de OPM Ortopédica                                                                                                              202506
+165004Serviço de Referência para Atenção Integral à Saúde de Homens em Situação de Violência Sexual                                                         202506
+166004Água Mineral                                                                                                                                          202506
+167004OFTALMOLOGIA - PROJETO BRASIL ALFABETIZADO (PBA)                                                                                                      202506
+173004Transporte                                                                                                                                            202506
+132005Oncologia cirúrgica                                                                                                                                   202506
+131005Diagnóstico em Oftalmologia por Telemedicina                                                                                                          202506
+135005Reabiliatação Auditiva                                                                                                                                202506
+138005Diagnóstico e tratamento em membros inferiores                                                                                                        202506
+139005Acompanhamento a pacientes com diagnósticos de Hiperplasia Adrenal Congênita                                                                          202506
+140005Atendimento ao paciente com Acidente Vascular Cerebral (AVC)                                                                                          202506
+141005Vigilância de Zoonoses                                                                                                                                202506
+145005Exames de uroanálise                                                                                                                                  202506
+148005Cirúrgico / Diagnóstico                                                                                                                               202506
+149005Córnea / Esclera                                                                                                                                      202506
+152005Atenção Especializada a Populações Indígenas                                                                                                          202506
+159005Saúde Bucal                                                                                                                                           202506
+160005TELE-EDUCACAO                                                                                                                                         202506
+162005DOENÇA CORONARIANA (UCO)                                                                                                                              202506
+164005Dispensação de OPM Auditiva                                                                                                                           202506
+165005Serviço de Referência para Atenção Integral à Saúde de Pessoas Idosas em Situação de Violência Sexual                                                 202506
+166005Alimentos                                                                                                                                             202506
+101005Saúde da Família para a População Ribeirinha-Saúde Bucal MI                                                                                           202506
+103005Unidade de Suporte Básico de vida: Equipe Embarcação                                                                                                  202506
+104005Unidade de autorizações de TFD interestaduais                                                                                                         202506
+105005Tratamento neurocirúrgico da dor funcional                                                                                                            202506
+106005Unidade Dispensadora de Medicamentos - UDM                                                                                                            202506
+107005Implante Coclear                                                                                                                                      202506
+109005Atenção Básica à Adolescentes em Unidade Socioeducativa                                                                                               202506
+112005Centro de parto normal                                                                                                                                202506
+113005Equipe de cuidados domiciliares                                                                                                                       202506
+114005Cirurgia oral                                                                                                                                         202506
+115005Serviço Residencial Terapêutico Tipo II - SRT tipo II                                                                                                 202506
+116005Cardiologia intervencionista (hemodinâmica)                                                                                                           202506
+122005Teste Ergométrico por Telemedicina                                                                                                                    202506
+125005Dispensação de medicamentos básicos                                                                                                                   202506
+126005Assistência fisioterapêutica nas disfunções músculo-esqueléticas (todas as origens)                                                                   202506
+130005Tratamento Diálitico Peritonial                                                                                                                       202506
+134005Homeopatia                                                                                                                                            202506
+131006Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                                 202506
+134006Termalismo/Crenoterapia                                                                                                                               202506
+139006Acompanhamento a pacientes com diagnósticos de Deficiência Biotinidase                                                                                202506
+140006Pronto Atendimento Clínico                                                                                                                            202506
+145006Exames hormonais                                                                                                                                      202506
+148006Acompanhamento pós-transplante de medula óssea                                                                                                        202506
+149006Fígado                                                                                                                                                202506
+159006Núcleo Ampliado de Saúde da Família e Atenção Primária                                                                                                202506
+160006TELECONSULTA                                                                                                                                          202506
+161006TELECONSULTA                                                                                                                                          202506
+164006Manutenção e Adaptação de OPM Auditiva                                                                                                                202506
+165006Serviço de referência para interrupção de gravidez nos casos previstos em LEI                                                                         202506
+166006Células, Tecidos e Órgãos                                                                                                                             202506
+101006Saúde da Família Fluvial                                                                                                                              202506
+103006Veículos de intervenção rápida                                                                                                                        202506
+104006Central Estadual de Regulação da Alta Complexidade                                                                                                    202506
+105006Investigação e cirurgia de epilepsia                                                                                                                  202506
+107006Triagem Auditiva Neonatal                                                                                                                             202506
+112006Casa da Gestante, Bebê e Puérpera                                                                                                                     202506
+114006Cirurgia buco-maxilo-facial                                                                                                                           202506
+115006UA Adulto                                                                                                                                             202506
+116006Cardiologia Endovascular Extracardíaco                                                                                                                202506
+121006Radiologia intervencionista                                                                                                                           202506
+122006Teste Holter por Telemedicina                                                                                                                         202506
+125006Farmácia Hospitalar                                                                                                                                   202506
+126006Assistência fisioterapêutica em queimados                                                                                                             202506
+130006Tratamento em DRC                                                                                                                                     202506
+131007Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                             202506
+126007Assistência fisioterapêutica nas alterações em neurologia                                                                                             202506
+135007Oficina Ortopédica Fixa                                                                                                                               202506
+140007Pronto Atendimento Pediátrico                                                                                                                         202506
+145007Exames de  vigilância epidemiológica e  ambiental                                                                                                     202506
+149007Pâncreas                                                                                                                                              202506
+159007Atenção Primária para População Ribeirinha                                                                                                            202506
+160007TELEMONITORAMENTO                                                                                                                                     202506
+164007Dispensação de OPM Oftalmológica                                                                                                                      202506
+165007Atenção Ambulatorial  ás Pessoas em Situação de Violência Sexual                                                                                      202506
+166007Medicamentos                                                                                                                                          202506
+101007Saúde da Família Fluvial com Saúde Bucal                                                                                                              202506
+103007Outros veículos                                                                                                                                       202506
+104007Regulação Nacional de Alta Complexidade                                                                                                               202506
+105007Tratamento endovascular                                                                                                                               202506
+112007Atenção especializada ao seguimento do recém-nascido e crianças egressos de unidades neonatais (ANEO)                                                 202506
+114007Atendimento à pessoa com deficiência                                                                                                                  202506
+115007UA Infantojuvenil                                                                                                                                     202506
+116007Cardiologia Clínica                                                                                                                                   202506
+121007Radiologia por telemedicina                                                                                                                           202506
+122007Exame Eletrocardiografico por Telemedicina                                                                                                            202506
+123007OPM em odontologia                                                                                                                                    202506
+125007Farmácia Viva                                                                                                                                         202506
+134007Antroposofia Aplicada à Saúde                                                                                                                         202506
+134008Práticas Expressivas                                                                                                                                  202506
+126008Diagnóstico cinético funcional                                                                                                                        202506
+140008Pronto Atendimento Obstétrico                                                                                                                         202506
+145008Exames toxicológicos ou de monitorização terapêutica                                                                                                  202506
+149008Retirada de orgãos                                                                                                                                    202506
+152008Hospitalidade Indígena                                                                                                                                202506
+159008Consultório na Rua                                                                                                                                    202506
+160008TELEORIENTACAO                                                                                                                                        202506
+164008Adaptação de OPM Oftalmológica                                                                                                                        202506
+165008Coleta de  Vestígios de Violência Sexual                                                                                                              202506
+166008Saneantes Domissanitários                                                                                                                             202506
+101008ESF Tipo I, II, III, IV ou Transitória                                                                                                                202506
+103008Ambulância de resgate                                                                                                                                 202506
+104008Regulação Ambulatorial de Média Complexidade                                                                                                          202506
+105008Neurocirurgia funcional estereotáxica                                                                                                                 202506
+107008Atenção Especializada às Pessoas com Deficiência Auditiva                                                                                             202506
+112008Atenção especializada gestação de alto risco (AGAR)                                                                                                   202506
+114008Odontopediatria                                                                                                                                       202506
+115008Unidade de Atenção em Regime Residencial                                                                                                              202506
+116008Serviço de Atenção Cardiovascular/Cardiologia Angiologia                                                                                              202506
+121008Ultra-sonografia por telemedicina                                                                                                                     202506
+122008Exame Eletroencefalografico por Telemedicina                                                                                                          202506
+123008OPM buco-maxilo-facial                                                                                                                                202506
+135008Oficina Ortopédica Intinerante                                                                                                                        202506
+134009Ayurveda                                                                                                                                              202506
+122009Exame Eletroneuromiografia                                                                                                                            202506
+140009Pronto Atendimento Psiquiátrico                                                                                                                       202506
+145009Exames microbiológicos                                                                                                                                202506
+149009Pele                                                                                                                                                  202506
+152009Gestão da Atenção e Saneamento à Populações Indígenas                                                                                                 202506
+159009Atenção Primária para População Prisional                                                                                                             202506
+160009TELEINTERCONSULTA                                                                                                                                     202506
+164009Substitução/Troca de OPM                                                                                                                              202506
+166009Produtos para a Saúde                                                                                                                                 202506
+101009ESF Tipo I, II, III, IV ou Transitória com Saúde Bucal MI                                                                                             202506
+104009Regulação do Acesso a Ações e Serviços de Saúde                                                                                                       202506
+105009Polissonografia                                                                                                                                       202506
+114009Disfusão temporomandibular                                                                                                                            202506
+115009Tratamento em Regime de Internação para Transtornos Mentais e Dependência Química                                                                     202506
+121009Tomografia computadorizada por telemedicina                                                                                                           202506
+135009Oficina Ortopédica Intinerante Fluvial                                                                                                                202506
+164010Dispensação de OPM em Gastroenterologia                                                                                                               202506
+160010TELETRIAGEM                                                                                                                                           202506
+101010ESF Tipo I, II, III, IV ou Transitória com Saúde Bucal MII                                                                                            202506
+103010Motolância                                                                                                                                            202506
+114010Estomatologia                                                                                                                                         202506
+115010DESINST de Pessoas com Transtorno  Mental em Conflito com a Lei                                                                                       202506
+121010Ressonância magnética por telemedicina                                                                                                                202506
+122010Exame videoeletroencefalografia                                                                                                                       202506
+123010OPM em queimados                                                                                                                                      202506
+134010Práticas Naturais                                                                                                                                     202506
+135010Atenção Fonoaudiológica                                                                                                                               202506
+140010Pronto Atendimento Oftalmológico                                                                                                                      202506
+145010Exames em outros líquidos biológicos                                                                                                                  202506
+149010Válvulas cardíacas                                                                                                                                    202506
+152010Saúde Bucal à Populações Indígenas                                                                                                                    202506
+159010Atenção Primária para Adolescentes em Unidade Socioeducativa                                                                                          202506
+166010Cosméticos                                                                                                                                            202506
+160011TELERREGULACAO                                                                                                                                        202506
+164011Dispensação de OPM em Urologia                                                                                                                        202506
+166011Desinfestantes                                                                                                                                        202506
+101011ESF Transitória                                                                                                                                       202506
+103011Unidade de Suporte Avançado de vida: Equipe Embarcação                                                                                                202506
+114011Implantodondia                                                                                                                                        202506
+121011Radiologia intervencionista por telemedicina                                                                                                          202506
+122011Potenciais Evocados                                                                                                                                   202506
+123011OPM em nefrologia                                                                                                                                     202506
+134011Práticas Manuais                                                                                                                                      202506
+135011Atenção Fisioterapeutica                                                                                                                              202506
+140011Pronto Atendimento Odontológico                                                                                                                       202506
+145011Exames de genética                                                                                                                                    202506
+149011Osteocondroligamentos                                                                                                                                 202506
+121012Mamografia                                                                                                                                            202506
+122012Potenciais Evocados por Telemedicina                                                                                                                  202506
+123012OPM - Projeto Olhar Brasil                                                                                                                            202506
+149012Separação, avaliação biomicroscópica e conservação da córnea/esclera                                                                                  202506
+145012Exames para triagem neonatal                                                                                                                          202506
+140012Pronto Socorro Pediátrico                                                                                                                             202506
+164012Confecção de OPM Auxiliares de Locomoção e Ortopédicas                                                                                                202506
+101012Saúde da Família para a População Ribeirinha - Saúde Bucal MII                                                                                        202506
+166012Imunobiológicos                                                                                                                                       202506
+134012Práticas Psicodinâmicas                                                                                                                               202506
+103012Equipe Aeromédico                                                                                                                                     202506
+114012Odontogeriatria                                                                                                                                       202506
+135012Atenção à Saúde das Pessoas Ostomizadas I                                                                                                             202506
+114013Ortodontia                                                                                                                                            202506
+101013ESB MI                                                                                                                                                202506
+166013Insumos Farmacêuticos                                                                                                                                 202506
+123013OPM Projeto Olhar Brasil - Programa Saúde na Escola (PSE)                                                                                             202506
+149013Contagem endotelial corneana                                                                                                                          202506
+145013Exames imunohematológicos                                                                                                                             202506
+140013Pronto Socorro Obstétrico                                                                                                                             202506
+135013Atenção à Saúde das Pessoas Ostomizadas II                                                                                                            202506
+134013Ozônioterapia                                                                                                                                         202506
+121013Mamografia por Telemedicina                                                                                                                           202506
+101014ESB MII                                                                                                                                               202506
+140014Pronto Socorro Cardiovascular                                                                                                                         202506
+149014Acompanhamento de paciente transplantado                                                                                                              202506
+134014Aromaterapia                                                                                                                                          202506
+123014OPM Projeto Olhar Brasil - Programa Brasil Alfabetizado (PBA)                                                                                         202506
+114014Prótese Dentária                                                                                                                                      202506
+166014Material Biológico                                                                                                                                    202506
+149015Ações para doação e captação de órgãos e tecidos                                                                                                      202506
+134015Imposição de Mãos                                                                                                                                     202506
+140015Pronto Socorro Neurologia/Neurocirurgia                                                                                                               202506
+166015Sangue e Hemoderivados                                                                                                                                202506
+114015Radiologia Odontológica e Imaginologia                                                                                                                202506
+166016Surtos de Toxinfecção                                                                                                                                 202506
+140016Pronto Socorro Traumato-Ortopédico                                                                                                                    202506
+114016Acupuntura na Odontologia                                                                                                                             202506
+149016Retirada de globo ocular humano para transplante                                                                                                      202506
+140017Pronto Socorro Odontológico                                                                                                                           202506
+166017Diversos                                                                                                                                              202506
+114017Ortopedia funcional dos maxilares                                                                                                                     202506
+140018Pronto Socorro Oftalmológico                                                                                                                          202506
+114018Odontologia hospitalar                                                                                                                                202506
+140019Pronto Socorro Geral/Clínico                                                                                                                          202506

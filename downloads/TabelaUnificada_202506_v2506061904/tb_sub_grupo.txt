@@ -1,0 +1,67 @@
+0401Pequenas cirurgias e cirurgias de pele, tecido subcutâneo e mucosa                                  202506
+0501Coleta e exames para fins de doação de orgãos, tecidos e células e de transplante                   202506
+0201Coleta de material                                                                                  202506
+0101Ações coletivas/individuais em saúde                                                                202506
+0901Atenção em Oncologia                                                                                202506
+0701Órteses, próteses e materiais especiais não relacionados ao ato cirúrgico                           202506
+0601Medicamentos de dispensação excepcional                                                             202506
+0301Consultas / Atendimentos / Acompanhamentos                                                          202506
+0801Ações relacionadas ao estabelecimento                                                               202506
+0302Fisioterapia                                                                                        202506
+0202Diagnóstico em laboratório clínico                                                                  202506
+0102Vigilância em saúde                                                                                 202506
+0902Atenção em Cardiologia                                                                              202506
+0802Ações relacionadas ao atendimento                                                                   202506
+0702Órteses, próteses e materiais especiais relacionados ao ato cirúrgico                               202506
+0602Medicamentos estratégicos                                                                           202506
+0502Avaliação de morte encefálica                                                                       202506
+0402Cirurgia de glândulas endócrinas                                                                    202506
+0203Diagnóstico por anatomia patológica e citopatologia                                                 202506
+0903Atenção em Ortopedia                                                                                202506
+0803Autorização / regulação                                                                             202506
+0503Ações relacionadas à doação de orgãos e tecidos para transplante                                    202506
+0403Cirurgia do sistema nervoso central e periférico                                                    202506
+0303Tratamentos clínicos (outras especialidades)                                                        202506
+0603Medicamentos de âmbito hospitalar e urgência                                                        202506
+0204Diagnóstico por radiologia                                                                          202506
+0604Componente especializado da assistência farmacêutica                                                202506
+0504Processamento de tecidos para transplante                                                           202506
+0804Telessaúde                                                                                          202506
+0904Atenção em Otorrinolaringologia                                                                     202506
+0304Tratamento em oncologia                                                                             202506
+0404Cirurgia das vias aéreas superiores, da face, da cabeça e do pescoço                                202506
+0505Transplante de orgãos, tecidos e células                                                            202506
+0205Diagnóstico por ultrasonografia                                                                     202506
+0405Cirurgia do aparelho da visão                                                                       202506
+0905Atenção em Oftalmologia                                                                             202506
+0305Tratamento em nefrologia                                                                            202506
+0206Diagnóstico por tomografia                                                                          202506
+0306Hemoterapia                                                                                         202506
+0406Cirurgia do aparelho circulatório                                                                   202506
+0506Acompanhamento e intercorrências no pré e pós-transplante                                           202506
+0906Atenção em Saúde Mulher                                                                             202506
+0207Diagnóstico por ressonância magnética                                                               202506
+0307Tratamentos odontológicos                                                                           202506
+0407Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal                                    202506
+0408Cirurgia do sistema osteomuscular                                                                   202506
+0208Diagnóstico por medicina nuclear in vivo                                                            202506
+0308Tratamento de lesões, envenenamentos e outros, decorrentes de causas externas                       202506
+0409Cirurgia do aparelho geniturinário                                                                  202506
+0209Diagnóstico por endoscopia                                                                          202506
+0309Terapias especializadas                                                                             202506
+0310Parto e nascimento                                                                                  202506
+0210Diagnóstico por radiologia intervencionista                                                         202506
+0410Cirurgia de mama                                                                                    202506
+0211Métodos diagnósticos em especialidades                                                              202506
+0311Cuidados Paliativos                                                                                 202506
+0411Cirurgia obstétrica                                                                                 202506
+0412Cirurgia torácica                                                                                   202506
+0212Diagnóstico e procedimentos especiais em hemoterapia                                                202506
+0213Diagnóstico em vigilância epidemiológica e ambiental                                                202506
+0413Cirurgia reparadora                                                                                 202506
+0414Bucomaxilofacial                                                                                    202506
+0214Diagnóstico por teste rápido                                                                        202506
+0415Outras cirurgias                                                                                    202506
+0416Cirurgia em oncologia                                                                               202506
+0417Anestesiologia                                                                                      202506
+0418Cirurgia em nefrologia                                                                              202506
