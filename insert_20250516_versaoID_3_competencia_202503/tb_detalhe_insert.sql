@@ -1,0 +1,47 @@
+-- INSERTS para a tabela public."tb_detalhe" com version_id = 3
+-- Coluna 'id' deve ser BIGSERIAL e será auto-preenchida pelo banco.
+-- Arquivo de origem: tb_detalhe.txt
+
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('001', 'Inclui valor da anestesia', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('003', 'Admite longa permanência', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('004', 'Admite permanência à maior', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('005', 'Admite liberação de quantidade na AIH', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('006', 'CNRAC', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('007', 'Permanência por dia', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('008', 'Não permite mudança de procedimento', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('009', 'Exige CPF/CNS', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('011', 'Permite alta direta de UTI', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('012', 'Exige idade no BPA (Consolidado)', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('013', 'Verifica habilitação de terceiro', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('014', 'Admite APAC de Continuidade', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('015', 'Admitido apenas em Hosp.Espec/Psiquiatria', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('017', 'Exige Informação da OPM', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('020', 'Monitoramento do CEO', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('021', 'Não Exige CBO', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('022', 'Exige registro na APAC de dados complementares', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('023', 'Registro no SISCOLO', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('024', 'Registro no SISPRENATAL', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('025', 'Registro no SISMAMA', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('026', 'Registro de Procedimentos Secundário Compativel', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('029', 'Admite período maior para a apresentação', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('033', 'APAC com validade fixa de 03 competências', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('034', 'Não exige CPF/CNS', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('036', 'Exige Autorização', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('037', 'Exige CNPJ do Fornecedor', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('038', 'Exige Serviço/Classificação', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('040', 'Registro no SISCAN', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('041', 'APAC com validade fixa de 12 competências', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('042', 'Não Admite Liberação de Crítica de Idade', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('043', 'Exige registro de CID de causas associadas', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('044', 'Cirurgias Eletivas', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('045', 'Diárias de Leitos Complementares', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('046', 'Tratamento Ambulatorial de Doenças Crônicas', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('047', 'Autorização com limite máximo de 6 meses.', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('048', 'Exige CID', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('049', 'Permite Informação de Equipe Cirúrgica', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('050', 'Permite o Registro de Informações do CPF/CNS do(s) Recém-Nascido(s)', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('051', 'Programa Mais Acesso a Especialistas - Componente Cirurgias Hospitalares', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('052', 'Programa Mais Acesso a Especialistas - Componente Cirurgias Ambulatoriais.', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('053', 'Programa Mais Acesso a Especialistas (PMAE)', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('054', 'APAC com validade fixa de 2 competências.', '202503', 3);
+INSERT INTO public."tb_detalhe" ("co_detalhe", "no_detalhe", "dt_competencia", "version_id") VALUES ('055', 'Exige data do resultado diagnóstico de Neoplasia', '202503', 3);
