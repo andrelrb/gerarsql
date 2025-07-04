@@ -6,7 +6,7 @@ def verificar_dados():
     Verifica os dados nos arquivos da pasta "Insert_09052025".
     """
     
-    pasta = r'G:\Meu Drive\Indra company\SECRETARIA DE SAUDE - RECIFE\CAPS\GerarSQL\insert_09052025'
+    pasta = r'G:\Meu Drive\Indra company\SECRETARIA_DE_SAUDE_RECIFE\CAPS\GerarSQL\insert_09052025'
     if not os.path.exists(pasta):
         print(f"Pasta '{pasta}' não encontrada.")
         return

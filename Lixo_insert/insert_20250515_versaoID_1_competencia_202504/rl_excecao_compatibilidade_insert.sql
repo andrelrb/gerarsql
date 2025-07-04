@@ -1,8 +1,0 @@
--- INSERTS para a tabela public."rl_excecao_compatibilidade" com version_id = 1
--- Arquivo de origem: rl_excecao_compatibilidade.txt
-
-INSERT INTO public."rl_excecao_compatibilidade" ("co_procedimento_restricao", "co_procedimento_principal", "co_registro_principal", "co_procedimento_compativel", "co_registro_compativel", "tp_compatibilidade", "dt_competencia", "version_id") VALUES ('0303010037', '0702040150', '04', '0702050342', '04', '2', '202504', 1);
-INSERT INTO public."rl_excecao_compatibilidade" ("co_procedimento_restricao", "co_procedimento_principal", "co_registro_principal", "co_procedimento_compativel", "co_registro_compativel", "tp_compatibilidade", "dt_competencia", "version_id") VALUES ('0303060069', '0702040150', '04', '0702050342', '04', '2', '202504', 1);
-INSERT INTO public."rl_excecao_compatibilidade" ("co_procedimento_restricao", "co_procedimento_principal", "co_registro_principal", "co_procedimento_compativel", "co_registro_compativel", "tp_compatibilidade", "dt_competencia", "version_id") VALUES ('0303060077', '0702040150', '04', '0702050342', '04', '2', '202504', 1);
-INSERT INTO public."rl_excecao_compatibilidade" ("co_procedimento_restricao", "co_procedimento_principal", "co_registro_principal", "co_procedimento_compativel", "co_registro_compativel", "tp_compatibilidade", "dt_competencia", "version_id") VALUES ('0303060212', '0702040150', '04', '0702050342', '04', '2', '202504', 1);
-INSERT INTO public."rl_excecao_compatibilidade" ("co_procedimento_restricao", "co_procedimento_principal", "co_registro_principal", "co_procedimento_compativel", "co_registro_compativel", "tp_compatibilidade", "dt_competencia", "version_id") VALUES ('0303060255', '0702040150', '04', '0702050342', '04', '2', '202504', 1);
